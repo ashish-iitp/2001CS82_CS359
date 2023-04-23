@@ -1,1 +1,1 @@
-python tut05.py topology.txt
+python tut05.py
